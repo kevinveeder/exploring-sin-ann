@@ -1,7 +1,7 @@
 # 3D Sinusoidal Regression with Neural Networks
 This project explores the use of artificial neural networks to model a noisy 3D sinusoidal dataset. The goal was to build and fine-tune a regression model using TensorFlow's Sequential API, and to manually experiment with key hyperparameters to better understand their effect on model performance and generalization.
 
-## 📌 Project Objectives
+## Objectives
 - Load and preprocess 3D spatial data from a CSV file
 - Visualize the training data in 3D space using Matplotlib
 - Build, train, and evaluate a feedforward neural network
@@ -9,7 +9,7 @@ This project explores the use of artificial neural networks to model a noisy 3D 
 - Generate prediction curves and compare them with training data
 - Calculate generalization error using Mean Squared Error (MSE)
 
-## 🧰 Tools & Technologies
+## Tools & Technologies
 - Python 3.x
 - Pandas
 - Numpy
@@ -17,7 +17,7 @@ This project explores the use of artificial neural networks to model a noisy 3D 
 - Scikit-learn (train_test_split, StandardScaler, mean_squared_error)
 - TensorFlow / Keras (Sequential, Dense, predict)
 
-## 📊 Visualizations
+## Visualizations
 - Initial 3D scatter plots of the training data from multiple viewing angles
 - Model prediction curves superimposed on training data
 - Comparison of different network configurations and their prediction quality
