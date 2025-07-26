@@ -22,6 +22,7 @@ This project explores the use of artificial neural networks to model a noisy 3D 
 - Model prediction curves superimposed on training data
 - Comparison of different network configurations and their prediction quality
 
+## Requirements
 This project uses a jupyter notebook. Make sure to have these installed before opening the .ipynb file:
 - Python 3.x
 - Jupyter Notebooks
