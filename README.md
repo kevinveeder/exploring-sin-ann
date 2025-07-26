@@ -27,3 +27,5 @@ This project uses a jupyter notebook. Make sure to have these installed before o
 - Python 3.x
 - Jupyter Notebook
 
+I've also included a pdf copy as well. 
+
