@@ -25,6 +25,5 @@ This project explores the use of artificial neural networks to model a noisy 3D 
 ## Requirements
 This project uses a jupyter notebook. Make sure to have these installed before opening the .ipynb file:
 - Python 3.x
-- Jupyter Notebooks
+- Jupyter Notebook
 
-**If you don't have the above installed, I've also included a pdf copy of the file**
